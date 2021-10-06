@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/oumaymaNasri/React_Props/static/css/main.a5427fbb.chunk.css",
+    "main.js": "/oumaymaNasri/React_Props/static/js/main.12c4772b.chunk.js",
+    "main.js.map": "/oumaymaNasri/React_Props/static/js/main.12c4772b.chunk.js.map",
+    "runtime-main.js": "/oumaymaNasri/React_Props/static/js/runtime-main.846a6253.js",
+    "runtime-main.js.map": "/oumaymaNasri/React_Props/static/js/runtime-main.846a6253.js.map",
+    "static/js/2.556ce437.chunk.js": "/oumaymaNasri/React_Props/static/js/2.556ce437.chunk.js",
+    "static/js/2.556ce437.chunk.js.map": "/oumaymaNasri/React_Props/static/js/2.556ce437.chunk.js.map",
+    "index.html": "/oumaymaNasri/React_Props/index.html",
+    "static/css/main.a5427fbb.chunk.css.map": "/oumaymaNasri/React_Props/static/css/main.a5427fbb.chunk.css.map",
+    "static/js/2.556ce437.chunk.js.LICENSE.txt": "/oumaymaNasri/React_Props/static/js/2.556ce437.chunk.js.LICENSE.txt",
+    "static/media/myself-image.3542b5ec.png": "/oumaymaNasri/React_Props/static/media/myself-image.3542b5ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846a6253.js",
+    "static/js/2.556ce437.chunk.js",
+    "static/css/main.a5427fbb.chunk.css",
+    "static/js/main.12c4772b.chunk.js"
+  ]
+}
